@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a researcher at Sciences Po’s Department of Economics and work on Acquisitions at Chard Development in Vancouver, BC. I'll be starting graduate school at The University of Toronto's Department of Economics this fall!
+I am a researcher at Sciences Po’s Department of Economics and work on Acquisitions at Chard Development in Vancouver, BC.
 <!--
 **damandhaliwal/damandhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
