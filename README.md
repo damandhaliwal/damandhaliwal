@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a researcher at Sciences Po’s Department of Economics and work on Acquisitions at Chard Development in Vancouver, BC.
+I am a graduate student at the University of Toronto's Department of Economics and work as a Data Replicator at the Journal of Political Economy.
 <!--
 **damandhaliwal/damandhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
